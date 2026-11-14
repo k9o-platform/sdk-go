@@ -1,0 +1,3 @@
+
+# static archives are part of the published module
+!lib/*/libkibo_kms_rest_ffi.a
